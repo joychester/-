@@ -1,5 +1,5 @@
 # 计算机系统设计的建议和原则
-中文翻译--"Hints and Principles for Computer System Design" By Butler Lampson, 2020 Edition
+中文翻译--"Hints and Principles for Computer System Design" By [Butler Lampson](https://en.wikipedia.org/wiki/Butler_Lampson), 2020 Edition
 ### [章节一: 简介](blank)
 ### [章节二: 原则](blank)
 ### [章节三: 目标与技巧](blank)
