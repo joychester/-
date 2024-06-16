@@ -7,8 +7,8 @@
 ### [章节五: 反例](blank)
 ### [章节六: 总结](blank)
 
-### Reference:
-[1983 Edition](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)  
-[2020 Edition](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/Hints-and-Principles-v1-full.pdf)
+### 参考链接:
+[1983 版本](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)  
+2020 版本: [完整版](https://arxiv.org/abs/2011.02455v3) 和 [精简版](https://arxiv.org/pdf/2011.02455v2), 这里会翻译精简版，但也比1983年的版本多出了一倍的篇幅。
 
-> *译者注: 抱着学习的目的，结合自己对原文内容的理解进行翻译，(尽量)不使用ChatGPT直接翻译*
+> *译者注: 抱着学习的目的，结合自己对原文内容的理解进行翻译，(尽量)不使用ChatGPT直接翻译*，即使有了GenAI作为辅助工具，但翻译依然是一项很有挑战的工作，当然想偷懒的话，就另当别论了😄
